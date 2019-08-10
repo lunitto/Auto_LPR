@@ -1,0 +1,6 @@
+E:\ĐATN\DATN_Nguyen Van Dinh\DATN_Nguyen Van Dinh\source code\final\Auto_LPR_final\bin\Release\Auto_parking.exe.config
+E:\ĐATN\DATN_Nguyen Van Dinh\DATN_Nguyen Van Dinh\source code\final\Auto_LPR_final\obj\Release\Auto_parking.csprojResolveAssemblyReference.cache
+E:\ĐATN\DATN_Nguyen Van Dinh\DATN_Nguyen Van Dinh\source code\final\Auto_LPR_final\obj\Release\Auto_parking.ImageForm.resources
+E:\ĐATN\DATN_Nguyen Van Dinh\DATN_Nguyen Van Dinh\source code\final\Auto_LPR_final\obj\Release\Auto_parking.MainForm.resources
+E:\ĐATN\DATN_Nguyen Van Dinh\DATN_Nguyen Van Dinh\source code\final\Auto_LPR_final\obj\Release\Auto_parking.Properties.Resources.resources
+E:\ĐATN\DATN_Nguyen Van Dinh\DATN_Nguyen Van Dinh\source code\final\Auto_LPR_final\obj\Release\Auto_parking.csproj.GenerateResource.Cache
